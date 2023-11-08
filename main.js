@@ -1,3 +1,5 @@
+
+//ES6バージョン
 // dotenvモジュールを利用するための設定
 import dotenv from 'dotenv';
 dotenv.config();
